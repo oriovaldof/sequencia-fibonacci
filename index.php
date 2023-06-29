@@ -1,5 +1,6 @@
 <?php
 /*sequencia de fibonacci em um for simples*/
+/*code em execucao https://paiza.io/projects/9vOxGiDEKVeQaC98p1szJQ*/
 $tm = [];
 for($i = 0; $i <= 20; $i++){
    if($i == 0){
